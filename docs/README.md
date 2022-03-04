@@ -1,7 +1,7 @@
 # FP-Markdown
 
 David Nuno Ribeiro da Silva
-    ```2211880```
+    2211880
 
 ## Linguagens de programação conhecidas: ##
 
@@ -11,7 +11,7 @@ David Nuno Ribeiro da Silva
    - ...
 
 
->Metodologias de Desenvolvimento de Software @2022
+Metodologias de Desenvolvimento de Software @2022
 
 
 ![](https://www.ipleiria.pt/wp-content/themes/ipleiria/img/logo_ipl_header.png)
